@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KingEckbert
 - 👀 I’m interested in Python, Automation, AI
 - 🌱 I’m currently learning networking
-- 💞️ I’m looking to collaborate on ruling England
+- 💞️ I’m looking to collaborate on ensuring the protection of my heir
 - ⚡ Fun fact: I ruled Wessex in the late 9th century
 
 <!---
